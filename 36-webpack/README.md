@@ -57,7 +57,7 @@ Let's now look at the `profile.js` which uses our JavaScript libraries. We enclo
     $(".timeline").append(html);
   });
 
-}());
+})();
 ```
 
 This function is evaluated as soon as script is called.
